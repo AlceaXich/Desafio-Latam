@@ -17,4 +17,9 @@
      - alt + click: coloca el cursor en varias lineas y permite editar en simultaneo.
      - shift + alt + |v : crea copias de una o  mas lineas de mandera simultanea, cortar y pegar en silmultaneo.
      - alt + |v o |^ : desplazar hacia arriba o hacia abajp una o mas lineas. 
-[]
+
+## Introducción a CSS
+[x]Selectores
+   - Etiquetas: cuando se quiere cambiar todas las etiquetas de ese tipo.
+   - . : cuando se quiere cambiar algunos elementos.
+   - #: solo queremos cambiar un unico elemento.
