@@ -1,3 +1,28 @@
 body{
-    color: aquamarine;
+    color:blue;
+}
+
+table{
+    width: 50%;
+    margin: auto;
+}
+
+table, th, td{
+    border-bottom:solid 1px #ddd;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: cornflowerblue;
+    color: white;
+    font-weight: 800;
+}
+
+td{
+    text-align: right;
+    padding: 0.5em;
+}
+
+th{
+    padding: 05em;
 }

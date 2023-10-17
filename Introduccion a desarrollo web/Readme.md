@@ -25,8 +25,9 @@ CSS -> CascadingStyleSheets
    - Etiquetas: cuando se quiere cambiar todas las etiquetas de ese tipo.
    - . : cuando se quiere cambiar algunos elementos, en class.
    - #: como identificador, solo queremos cambiar un unico elemento.
+   - *: es un selector CSS universal que aplica a todas las etiquetas.
 [x] Modelos de caja
-  - padding: es como un relleno interno
+  - padding: es como un relleno interno, es siempre trasnparente.
   - border: todolos contenidos son como cajas
   - margin: asigna al lado derecho, inferior e izquierdo, un espaciado externo.
   - Modelo en cascada: si hay varias propiedades css a una etiqueta, prevalece la ultima regla.
