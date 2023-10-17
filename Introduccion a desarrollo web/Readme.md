@@ -54,3 +54,6 @@ CSS -> CascadingStyleSheets
   - background-size: tamaño de la imagen de fondo.
 [x] Alineacion del texto
   - text-align: alineacion del texto.
+
+### Resultado de Actividad
+![Resultado](./Introduccion%20a%20CSS/landing.1/assets/imgs/Resultado.png)
