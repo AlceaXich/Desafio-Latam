@@ -18,7 +18,9 @@
      - shift + alt + |v : crea copias de una o  mas lineas de mandera simultanea, cortar y pegar en silmultaneo.
      - alt + |v o |^ : desplazar hacia arriba o hacia abajp una o mas lineas. 
 
+
 ## Introducción a CSS
+
 CSS -> CascadingStyleSheets
 
 - [x] Selectores
@@ -55,10 +57,13 @@ CSS -> CascadingStyleSheets
 - [x] Alineacion del texto
   - text-align: alineacion del texto.
 
+
 ### Resultado de Actividad
 ![Resultado](./Introduccion%20a%20CSS/landing.1/assets/imgs/Resultado.png)
 
+
 ## Alinenado contenido con flex
+
 - display block: Cada linea es un bloque y no se puede poner otro a lado, ocupa todo el ancho disponible. Hay etiquetas que tienen este comportamiento.
 - display inline: su `ancho ocupa el minimo espacio. <a> <stron> <em>` son etiquetas inline.
   - se puede establecer un ancho y alto
