@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+.menu-navegacion{
+    background-color: coral;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+}
+.menu-navegacion li{
+    display: inline-block
+}
+
+.menu-navegacion a{
+    color: white;
+    text-decoration: none;
+}
+
+/*Pseudo selector*/
+.menu-navegacion a:hover{
+    background-color: white;
+    color: coral;
+}

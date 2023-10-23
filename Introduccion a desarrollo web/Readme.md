@@ -59,5 +59,8 @@ CSS -> CascadingStyleSheets
 ![Resultado](./Introduccion%20a%20CSS/landing.1/assets/imgs/Resultado.png)
 
 ## Alinenado contenido con flex
-- display-block: Cada linea es un bloque y no se puede poner otro a lado
-- display-inline: su `ancho ocupa el minimo espacio. <a> <stron> <em>` son etiquetas inline.
+- display block: Cada linea es un bloque y no se puede poner otro a lado, ocupa todo el ancho disponible. Hay etiquetas que tienen este comportamiento.
+- display inline: su `ancho ocupa el minimo espacio. <a> <stron> <em>` son etiquetas inline.
+  - se puede establecer un ancho y alto
+  - contruiri un menu.
+  - construir una galeria de imagenes.
