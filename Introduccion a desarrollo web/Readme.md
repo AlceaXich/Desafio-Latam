@@ -64,3 +64,15 @@ CSS -> CascadingStyleSheets
   - se puede establecer un ancho y alto
   - contruiri un menu.
   - construir una galeria de imagenes.
+- Flexbox: `dispĺay:flex` alinea contenido. Ideal ara construccion de layouts que contengan elementos de filas y columnas.
+  - justify-content: start, end, center.
+  
+![Flex:justify-content](./Alineando%20contenido%20con%20flex/assets/imgs/flex.png)
+  - flex-wrap: nowrap(xdefecto) hace que los elementos aparezcan en una unica linea.
+  Son selectores que en lugar de apuntar a un elemento apuntan al estado de un elemento.
+
+![Selectores](./Alineando%20contenido%20con%20flex/assets/imgs/selectores.png)
+
+- Etiquetas semanticas: cumpleen el mismo rol.
+
+![Etiquetas semanticas](./Alineando%20contenido%20con%20flex/assets/imgs/etiquetassemanticas.png)
