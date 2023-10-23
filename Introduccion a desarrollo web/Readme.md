@@ -57,3 +57,7 @@ CSS -> CascadingStyleSheets
 
 ### Resultado de Actividad
 ![Resultado](./Introduccion%20a%20CSS/landing.1/assets/imgs/Resultado.png)
+
+## Alinenado contenido con flex
+- display-block: Cada linea es un bloque y no se puede poner otro a lado
+- display-inline: su `ancho ocupa el minimo espacio. <a> <stron> <em>` son etiquetas inline.
