@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    background-color: #000000
+}
+
+.container{
+    display: block;
+}
+
+.title{
+    color: white;
+    text-align: center;
+}
+.title h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    color: white;
+}
+.image{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.image-info{
+    float: right;
+    width: 399px;
+    height: 237px;
+}
+.information{
+    margin-left: 17em;
+    margin-right: 17em;
+}
+
+.characteristics{
+    background-color: dimgray;
+}

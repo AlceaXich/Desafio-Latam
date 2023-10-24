@@ -56,7 +56,7 @@ CSS -> CascadingStyleSheets
   - margin: asigna al lado derecho, inferior e izquierdo, un espaciado externo.
   - Modelo en cascada: si hay varias propiedades css a una etiqueta, prevalece la ultima regla.
 - [x] Colores
-  - Hay 17 colores básicos definidos como palabras clave y 147 colores extendidos. Fuente: [CSS color](https://www.w3.org/TR/css-color-3/)
+  - Hay 17 colores básicos definidos como palabras clave y 147 colores extendidos. Fuente: [CSS color](https://www.w3.org/TR/css-color-3/) y [Html color codes](https://htmlcolorcodes.com/es/)
   - RGB significa red, green and blue,osea rojo, verde y azul, toman valores de 0 a 255.
   - RGB porcentual, similar al RGB pero en porcentaje del 0% al 100%(255).
   - RGB hexadecimal, se puede convertir a un valor hexadecimal.
