@@ -9,15 +9,37 @@
 - [x] Imagenes y enlaces -> en <a> target="_blank se usa para aprir el enlace en otra pestaña.
 - [x] Tablas
 - [x] Optimizacion de imagenes:
-   -  Imagenes:
-      -  [https://tinypng.com/](TinyPNG): permit optimizar imagenes.
-      -  [kraken.io](kraken.io)
-      -  [remove.bg](remove.bg): eliminar fondo.
-   - Atajos de teclado:
+  -  Imagenes:
+     - [https://tinypng.com/](TinyPNG): permit optimizar imagenes.
+     - [kraken.io](kraken.io)
+     - [remove.bg](remove.bg): eliminar fondo.
+  - Atajos de teclado:
      - alt + click: coloca el cursor en varias lineas y permite editar en simultaneo.
      - shift + alt + |v : crea copias de una o  mas lineas de mandera simultanea, cortar y pegar en silmultaneo.
      - alt + |v o |^ : desplazar hacia arriba o hacia abajp una o mas lineas. 
+- [x] Formato para enviar un email mediante link
+  - `<a href="mailto:example@gmail.com?subject=Contacto&body=prueba email">Enviar</a>`
 
+![Resultado para enviar un email mediante <a>](./Introduccion%20a%20HTML/images/emailto.png)
+  
+### Formatos de texto:
+ - `<br/>` line break
+ - `<hr>` horizontal rule
+ - `<b></b>` texto en negrita <b>ejemplo</b>
+ - `<strong></strong>` texto en negrita, pero indica que es importante <strong>ejemplo</strong>
+ - `<i></i>`texto en <i>ejemplo</i>
+ - `<em></em>`texto para enfatizar <em>ejemplo</em>
+ - `<small></small>` texto normal pero pequeño <small>ejemplo</small>
+ - `<mark></mark>` texto marcado <mark>ejemplo</mark>
+ - `<del></del>` texto eliminado <del>ejemplo</del>
+ - `<ins></ins>` texto insertado <ins>ejemplo</ins>
+ - `<sub></sub>` para sub-indices H<sub>2</sub>O
+ - `<sup></sup>` para indices superiores x<sup>2</sup>+1
+
+### Referencias de caracteres
+- `<code></code>` para poner código <code>let a = 1</code>
+- `&num;` para agrear simbolos de acuerdo a su referencia
+	- [Character entity reference](https://tools.w3cub.com/html-entities)
 
 ## Introducción a CSS
 
