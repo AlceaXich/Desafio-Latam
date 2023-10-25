@@ -1,0 +1,16 @@
+h1{
+    color: #cdb4db;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    color: #ffc8dd;
+    margin: auto 10em 2em;
+    border: 2px solid #ffafcc;
+    padding:1em;
+}
+a{
+    color: #a2d2ff;
+    margin: 10em;
+}
