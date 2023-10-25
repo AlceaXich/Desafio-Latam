@@ -10,7 +10,20 @@ p{
     border: 2px solid #ffafcc;
     padding:1em;
 }
+
 a{
-    color: #a2d2ff;
-    margin: 10em;
+    margin: 10em 5em;
+}
+
+a:link{
+    color: blueviolet;
+    text-decoration: none;
+}
+
+a:visited{
+    color: red;
+}
+a:hover{
+    color: blue;
+    text-decoration: underline;
 }
