@@ -1,0 +1,17 @@
+.lista-ol{
+    list-style: none;
+    counter-reset: contador;
+}
+
+.lista-ol li{
+    counter-increment: contador;
+}
+
+.lista-ol li::before{
+    content: 'Lenguaje de programación #' counter(contador) ': ';
+    color: blueviolet;
+}
+
+.lista-ol li::after{
+    content: '.';
+}
