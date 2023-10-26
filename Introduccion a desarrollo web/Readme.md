@@ -8,6 +8,9 @@
 - [x] Ejercicio CV
 - [x] Imagenes y enlaces -> en `<a>` target="_blank se usa para aprir el enlace en otra pestaña.
 - [x] Tablas
+  - combinar 2 o mas columnas: `colspan = 2`
+  - combinar 2 o mas filas: `rowspan=2`
+  - En css: `tr:nth-child(even o odd){...}` even selecciona los pares y odd los impares
 - [x] Optimizacion de imagenes:
   -  Imagenes:
      - [https://tinypng.com/](TinyPNG): permit optimizar imagenes.

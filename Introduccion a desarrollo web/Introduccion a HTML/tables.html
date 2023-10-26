@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tablas en HTML</title>
+    <link href="./assets/css/tables.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Croissant+One&display=swap" rel="stylesheet">
 </head>
 <body>
     <table>
@@ -26,6 +30,36 @@
         <tr>
             <td>mango</td> <!--Table Data-->
             <td>Fruta</td>
+        </tr>
+    </table>
+    <table>
+        <caption>Lista de cursos de CS</caption>
+        <tr>
+            <th>Año</th>
+            <th>Nombre del curso</th>
+            <th>Semestre</th>
+        </tr>
+        <tr>
+            <td rowspan="3">1</td>
+            <td> Fundamentos de computación</td>
+            <td> A </td>
+        </tr>
+        <tr>
+            <td>Ciencia de la computación</td>
+            <td>B</td>
+        </tr>
+        <tr>
+            <td>Estructuras discretas II</td>
+            <td>B</td>
+        </tr>
+        <tr>
+            <td rowspan="2">2</td>
+            <td>Ciencia de la computación II</td>
+            <td>A</td>
+        </tr>
+        <tr>
+            <td>Desarrollo basado en plataformas</td>
+            <td>A</td>
         </tr>
     </table>
 </body>

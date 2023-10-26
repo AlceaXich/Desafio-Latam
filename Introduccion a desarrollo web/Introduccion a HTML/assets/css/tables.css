@@ -1,0 +1,26 @@
+table{
+    width: 100%;
+    text-align: center;
+}
+
+table, th,td{
+    border: 2px solid blue;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+th{
+    background-color: blue;
+    color: white;
+}
+caption{
+    font-family: 'Croissant One', serif;
+    font-size: 25px;
+}
+tr:nth-child(even){
+    background-color: beige;
+}
+tr:nth-child(odd){
+    background-color: lightblue;
+}
+
