@@ -47,8 +47,8 @@ p{
 .characteristics{
     background-color: #221e17;
     text-align: center;
-    height: 348px;
-    padding: 25px;
+    height: 200px;
+    padding: 15px;
     margin-top: 25px;
 }
 .characteristics h2{
@@ -76,9 +76,22 @@ p{
 }
 
 .gallery{
-    flex-wrap: nowrap;
+    padding: 75px;
+    text-align: center;
 }
+
 .gallery img{
+    display: inline-block;
+    margin: 10px;
     width: 316px;
     height: 202px;
+}
+
+footer{
+    background-color: #221e17;
+    text-align: center;
+    padding: 15px;
+}
+footer p{
+    color: #afadab;
 }

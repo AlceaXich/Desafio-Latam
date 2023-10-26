@@ -83,7 +83,7 @@ CSS -> CascadingStyleSheets
   - text-align: alineacion del texto.
 
 
-### Resultado de Actividad
+### Resultado del desafio
 ![Resultado](./Introduccion%20a%20CSS/landing.1/assets/imgs/Resultado.png)
 
 
@@ -106,3 +106,8 @@ CSS -> CascadingStyleSheets
 - Etiquetas semanticas: cumpleen el mismo rol.
 
 ![Etiquetas semanticas](./Alineando%20contenido%20con%20flex/assets/imgs/etiquetassemanticas.png)
+
+### Resultado del desafio
+![Page iguana resultado](./Alineando%20contenido%20con%20flex/Desafio/assets/imgs/Page-iguana-resultado1.png)
+![Page iguana resultado](./Alineando%20contenido%20con%20flex/Desafio/assets/imgs/Page-iguana-resultado2.png)
+![Page iguana resultado](./Alineando%20contenido%20con%20flex/Desafio/assets/imgs/Page-iguana-resultado3.png)
