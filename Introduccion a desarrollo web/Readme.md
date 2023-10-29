@@ -114,5 +114,9 @@ CSS -> CascadingStyleSheets
 
 
 ## Bootstrap
-
 -[Bootsrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+### Componentes y utilidades de boootstrap
+![Bootstrap utilidades y comoponentes](./Bootstrap/assets/imgs/componentesyutilidades.png)
+
+### Spacing
+![Spacing](./Bootstrap/assets/imgs/spacing.png)
