@@ -9,4 +9,12 @@
 
 ## Paleta de colores
 - [Paleta de colores de Coolors.co](https://coolors.co/)
-- 
+  
+
+## Frameworks CSS
+- Bootstrap
+- Foundation
+- Bulma 
+- Semantic UI
+- Tailwind
+- UI kit
