@@ -44,6 +44,13 @@
 - `&num;` para agrear simbolos de acuerdo a su referencia
 	- [Character entity reference](https://tools.w3cub.com/html-entities)
 
+### Formularios
+- GET y POST:
+  - Por defecto para enviar datos es el metodo GET, en url.
+  - El metodo post tambien se puede usar para enviar datos sensibles sal servidor, pero se envia dentro de un request.
+![Meetodo get y post](./Introduccion%20a%20HTML/assets/imgs/metodogetandpost.png)
+- 
+
 ## Introducción a CSS
 
 CSS -> CascadingStyleSheets
