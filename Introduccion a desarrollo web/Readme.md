@@ -127,3 +127,10 @@ CSS -> CascadingStyleSheets
 
 ### Spacing
 ![Spacing](./Bootstrap/assets/imgs/spacing.png)
+
+### Resultado del desafio
+- Version desktop
+![Desafio latam - cupon version desktop](./Bootstrap/Desafio/imgs/cupon-desktop.gif)
+
+- Version mobile
+![Desafio latam - cupon version mobile](./Bootstrap/Desafio/imgs/cupon-mobilee.gif)
