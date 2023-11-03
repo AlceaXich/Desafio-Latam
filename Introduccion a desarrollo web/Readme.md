@@ -130,9 +130,7 @@ CSS -> CascadingStyleSheets
 
 ### Resultado del desafio
 - Version desktop del desafio de CUPPON
-
-![Desafio latam - cupon version desktop](./Bootstrap/Desafio/imgs/cupon-desktop.gif)
+  ![Desafio latam - cupon version desktop](./Bootstrap/Desafio/imgs/cupon-desktop.gif)
 
 - Version mobile del desafio de CUPPON
-
-![Desafio latam - cupon version mobile](./Bootstrap/Desafio/imgs/cupon-mobilee.gif)
+  ![Desafio latam - cupon version mobile](./Bootstrap/Desafio/imgs/cupon-mobilee.gif)
