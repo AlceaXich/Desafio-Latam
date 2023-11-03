@@ -33,3 +33,29 @@ body{
 .custom-button{
     border: 1px solid #FFFFFF80;
 }
+input{
+    border: 1px solid #DDDDDD;
+    border-radius: 5px;
+    margin: 5px;
+    height: 40px;
+}
+input::placeholder{
+    padding-left: 0.5em;
+    color: #707070;
+    font-size: 16px;
+}
+.button-send{
+    background-color: #F8F9FA;
+    color: black;
+    border: 1px solid #DDDDDD;
+    border-radius: 5px;
+    margin: 5px;
+    height: 40px;
+}
+.button-send[type="submit"]{
+    font-weight: bold;
+    color: black;
+    font-size: 16px;
+    width: 104px;
+
+}
