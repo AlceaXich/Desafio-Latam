@@ -36,7 +36,6 @@ body{
 input{
     border: 1px solid #DDDDDD;
     border-radius: 5px;
-    margin: 5px;
     height: 40px;
 }
 input::placeholder{
