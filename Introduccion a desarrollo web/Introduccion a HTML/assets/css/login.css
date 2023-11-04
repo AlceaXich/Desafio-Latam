@@ -1,0 +1,45 @@
+html{
+    height: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#fa0663, #a503f0);
+}
+.container{
+    margin: 50px auto;
+    width: 400px;
+    padding: 30px;
+    background: skyblue;
+    border-radius: 15px;
+}
+.container h2{
+    font-size: 30px;
+    padding: 0;
+    margin: 0 0 30px;
+    color: white;
+    text-align: center;
+}
+
+.container .elemento label{
+    color: white;
+}
+.container .elemento input{
+    width: 100%;
+    padding: 10px 0;
+    color: white;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid white;
+    margin-bottom: 30px;
+}
+
+.container .elemento input[type="submit"]{
+    background-color: #fa0663;
+    border: none;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+    padding: 15px;
+    margin-top: 30px;
+}

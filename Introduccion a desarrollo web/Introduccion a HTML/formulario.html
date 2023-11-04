@@ -7,9 +7,15 @@
 </head>
 <body>
    <h1>FORMULARIOS EN HTML</h1> 
-   <form action="mi_servidor" method="post" target="_blank" autocomplete="off">
+   <form action="mi_servidor" method="get" target="_blank" autocomplete="off">
     <fieldset>
         <legend>Datos:</legend>
+
+        <label for="idPersona">Id Persona:</label><br>
+        <input type="text" name="idPersona" id="idPersona" readonly="true" value="100"><br>
+
+        <input type="hidden" id="sistema" name="sistema" value="SEEE">
+
         <label for="nombre">Nombre:</label><br>
         <input type="text" id="nombre" name="nombre" placeholder="Escribe tu nombre" required="true"> <br>
 
@@ -53,6 +59,8 @@
 
         <input type="submit" value="Enviar"/>
         <input type="submit" formnovalidate="formnovalidate" value="Enviar sin validar"/>
+
+        <input type="reset" value="Restablecer">
     </fieldset>
    </form>
 </body>
