@@ -8,49 +8,52 @@
 <body>
    <h1>FORMULARIOS EN HTML</h1> 
    <form action="">
-    <label for="nombre">Nombre:</label><br>
-    <input type="text" id="nombre" name="nombre" placeholder="Escribe tu nombre" required="true"> <br>
+    <fieldset>
+        <legend>Datos:</legend>
+        <label for="nombre">Nombre:</label><br>
+        <input type="text" id="nombre" name="nombre" placeholder="Escribe tu nombre" required="true"> <br>
 
-    <label for="apellido">Apellido:</label><br>
-    <input type="text" id="apellido" name="apellido" placeholder="Escribe tu apellido" required="true"> <br>
+        <label for="apellido">Apellido:</label><br>
+        <input type="text" id="apellido" name="apellido" placeholder="Escribe tu apellido" required="true"> <br>
 
-    <label for="edad">Edad:</label><br>
-    <input type="number" name="edad" id="edad"> <br>
+        <label for="edad">Edad:</label><br>
+        <input type="number" name="edad" id="edad"> <br>
 
-    <label>Género:</label><br>
-    <input type="radio" name="genero" id="femenino" value="femenino">
-    <label for="femenino">Femenino</label> <br>
-    <input type="radio" name="genero" id="masculino" value="masculino">
-    <label for="masculino">Masculino</label><br>
+        <label>Género:</label><br>
+        <input type="radio" name="genero" id="femenino" value="femenino">
+        <label for="femenino">Femenino</label> <br>
+        <input type="radio" name="genero" id="masculino" value="masculino">
+        <label for="masculino">Masculino</label><br>
 
-    <label for="">Frutas favoritas:</label><br>
-    <input type="checkbox" id="fresa" name="fruta" value="fresa">
-    <label for="fresa">Fresa</label> <br>
-    <input type="checkbox" id="manzana" name="fruta" value="manzana">
-    <label for="manzana">Manzana</label> <br>
-    <input type="checkbox" id="naranja" name="fruta" value="naranja">
-    <label for="naranja">Naranja</label> <br>
+        <label for="">Frutas favoritas:</label><br>
+        <input type="checkbox" id="fresa" name="fruta" value="fresa">
+        <label for="fresa">Fresa</label> <br>
+        <input type="checkbox" id="manzana" name="fruta" value="manzana">
+        <label for="manzana">Manzana</label> <br>
+        <input type="checkbox" id="naranja" name="fruta" value="naranja">
+        <label for="naranja">Naranja</label> <br>
 
-    <label for="autos">Marca favorita de auto:</label> <br>
-    <select name="autos" id="autos" >
-        <option value="volvo">Volvo</option>
-        <option value="bmw">Bmw</option>
-        <option value="audi">Audi</option>
-        <option value="mercedes" selected="true">Mercedes</option>
-    </select><br>
+        <label for="autos">Marca favorita de auto:</label> <br>
+        <select name="autos" id="autos" >
+            <option value="volvo">Volvo</option>
+            <option value="bmw">Bmw</option>
+            <option value="audi">Audi</option>
+            <option value="mercedes" selected="true">Mercedes</option>
+        </select><br>
 
-    <label for="comentario">Comentario:</label> <br>
-    <textarea name="comentario" id="comentario" cols="30" rows="2">Escribe un comentario
-    </textarea><br>
+        <label for="comentario">Comentario:</label> <br>
+        <textarea name="comentario" id="comentario" cols="30" rows="2">Escribe un comentario
+        </textarea><br>
 
-    <label for="email">Email:</label><br>
-    <input type="email" id="email" name="email"> <br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"> <br>
 
-    <label for="password">Contraseña:</label><br>
-    <input type="password" id="password" name="password" required="true"/> <br>
+        <label for="password">Contraseña:</label><br>
+        <input type="password" id="password" name="password" required="true"/> <br>
 
-    <input type="submit" value="Enviar"/>
-    <input type="submit" formnovalidate="formnovalidate" value="Enviar sin validar"/>
+        <input type="submit" value="Enviar"/>
+        <input type="submit" formnovalidate="formnovalidate" value="Enviar sin validar"/>
+    </fieldset>
    </form>
 </body>
 </html>
