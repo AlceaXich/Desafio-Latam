@@ -49,7 +49,11 @@
   - Por defecto para enviar datos es el metodo GET, en url.
   - El metodo post tambien se puede usar para enviar datos sensibles sal servidor, pero se envia dentro de un request.
 ![Meetodo get y post](./Introduccion%20a%20HTML/assets/imgs/metodogetandpost.png)
-- 
+- Posibles atributos de form:
+  - action: servidor
+  - method: post y get
+  - target: se actualiza en la misma pagina o n otra
+  - autocomplete: on y off, el navegaador puede mostrar sugerencias
 
 ## Introducción a CSS
 
