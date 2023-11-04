@@ -55,6 +55,16 @@
   - target: se actualiza en la misma pagina o n otra
   - autocomplete: on y off, el navegaador puede mostrar sugerencias
 
+### Etiquetas estructurales en HTML
+![Etiquetas estructurales](./Introduccion%20a%20HTML/images/semantic.png)
+- `<header></header>`
+- `<nav></nav>`
+- `<section></section>`
+- `<article></article>`
+- `<footer></footer>`
+- `<aside></aside>`
+- `<hgroup></hgroup>`
+
 ## Introducción a CSS
 
 CSS -> CascadingStyleSheets
