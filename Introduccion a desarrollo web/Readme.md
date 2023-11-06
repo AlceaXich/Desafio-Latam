@@ -148,3 +148,35 @@ CSS -> CascadingStyleSheets
 
 #### Version mobile del desafio de CUPPON
   ![Desafio latam - cupon version mobile](./Bootstrap/Desafio/imgs/cupon-mobilee.gif)
+
+## Terminal, Git y GitHub
+### Comandos iniciales
+- `pwd`: conocer en que directorio estamos.
+- `ls`: listar el contenido del directorio.
+- `.`: son archivos ocultos.
+- `mkdir`: crear carpetas.
+- `touch`: crear un archivo.
+- `code`: editar en el archivo en un editor de codigo.
+- `cp archivo.extension ruta_destino/archivo_nuevo.extension` para la copia de archivos.
+- `cp -r directorio_copiado directorio_destino`: copiar directorios.
+- `mv archivo.extension directorio_destino/`: mover archivos.
+- `mv directorio_origen directorio_destino`: mover directorios.
+- `rm archivo.extension`: eliminar un archivo. Estos archivos no se recuperan
+- `rm -r directorio`: eliminar un directorio completo.
+  
+### Confirguracion de git:
+- `git config --global user.name "Tu nombre"`
+- `git config --global user.email Tucorreo@mail.com`
+- Con `git config --list` veremos los datos
+- git log: listado global de los cambios
+- git add . agrega todos los archivos de git untracked a tracked
+![Git add .](.\Terminal,%20git%20y%20github/assets/imgs/usobasicogit.png)
+
+
+- Generacion de clave ssh
+  - `ssh-keygen -t rsa -b 4096 -C "aqui contraseña"`
+  - `eval "$(ssh-agent -s)"`
+  - ssh-add ~/.ssh/id_rsa
+
+### Resultado del desafio
+![Resultaado del desafio](./Terminal,%20git%20y%20github/proyecto1/fdsw-github/assets/img/DesafioGithub.gif)
