@@ -1,0 +1,52 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.primer-div{
+    margin: 10px;
+    border: 5px solid #f94144;
+}
+
+.segundo-div{
+    margin: 10px;
+    border: 5px dashed #f3722c;
+}
+
+.tercer-div{
+    margin: 10px;
+    border: 5px dotted #2ecc71;
+}
+
+.cuarto-div{
+    margin: 10px;
+    border: 5px double #3498db;
+}
+
+.quinto-div{
+    margin: 10px;
+    border: 5px groove #2980b9;
+}
+
+.sexto-div{
+    margin: 10px;
+    border: 5px ridge #e67e22;
+}
+
+.septimo-div{
+    margin: 10px;
+    border: 5px inset #f1c40f;
+}
+
+.octavo-div{
+    margin: 10px;
+    border: 5px outset #e74c3c;
+}
+
+.noveno-div{
+    margin: 10px;
+    border: 5px none #34495e;
+}
+.decimo-div{
+    margin: 10px;
+    border: 5px auto #2c3e50;
+}

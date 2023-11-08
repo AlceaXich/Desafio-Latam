@@ -9,6 +9,7 @@
 
 ## Paleta de colores
 - [Paleta de colores de Coolors.co](https://coolors.co/)
+- Se puede usar colores por nombre.
   
 
 ## Frameworks CSS
@@ -18,3 +19,6 @@
 - Semantic UI
 - Tailwind
 - UI kit
+
+## Subclases en CSS
+- `p.clase{...}` aplica esa clase a todos los p

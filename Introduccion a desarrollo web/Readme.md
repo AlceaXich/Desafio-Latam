@@ -180,3 +180,11 @@ CSS -> CascadingStyleSheets
 
 ### Resultado del desafio
 ![Resultaado del desafio](./Terminal,%20git%20y%20github/proyecto1/fdsw-github/assets/img/DesafioGithub.gif)
+
+## Trabajo colaborativo y github pages
+- Permite levantar una pagina web gratuita a partir de un repositorio en github.
+  - Podemos usarlo para subir nuestro CV y portafolio.
+  - Un sitio web para cad proyecto y poder presentarlos.
+
+### Ejercicio
+[Ejercicio de Github pages](https://alceaxich.github.io/prueba-ghp/)
