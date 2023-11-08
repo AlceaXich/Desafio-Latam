@@ -22,3 +22,15 @@
 
 ## Subclases en CSS
 - `p.clase{...}` aplica esa clase a todos los p
+
+## Border en CSS
+- Ancho de borde:
+  - `border-width: top right botton left;`
+  - `border-width: thin or medium or thick;`
+  - `border-width: top right and left botton;`
+  - `border-width: top and botton left and right;`
+- Color de los bordes:
+  - `border-color: top right botton left;`
+  - `border-color: thin or medium or thick;`
+  - `border-color: top right and left botton;`
+  - `border-color: top and botton left and right;`
