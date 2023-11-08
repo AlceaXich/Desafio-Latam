@@ -31,6 +31,7 @@
   - `border-width: top and botton left and right;`
 - Color de los bordes:
   - `border-color: top right botton left;`
-  - `border-color: thin or medium or thick;`
   - `border-color: top right and left botton;`
   - `border-color: top and botton left and right;`
+- Redondeo:
+  - `border-radius: top-left top-right botton-right botton-left;`
