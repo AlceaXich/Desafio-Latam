@@ -27,4 +27,12 @@ Este taller tiene como objetivo realizar practicas en Figma, para reforzar mi la
   - Organismo: componentes mas grandes y complejos.
   - Templates: esquemas basicos que definen la estructura de una pagina.
   - Paginas: representacion visual final del diseño compuesta por componentes.
-- 
+- Componentes
+  - Son una agrupación de una o varios elementos, que pueden ser reutilizables.
+    - Componente principal: define las propiedades y retrincciones. Ej. boton  menu desplegable.
+    - Instancia: copia del componente principal, heredan las propiedades pero tambien se pueden agregar propias.
+- Variantes
+  - Permite crear varias versiones de un mismo componente master, cada una con propiedad y estilos diferentes.
+  - Especialmente para crear botones o menus desplegables.
+- Propiedade
+  - Son los atributos.
