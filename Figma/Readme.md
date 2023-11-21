@@ -16,8 +16,7 @@ Este taller tiene como objetivo realizar practicas en Figma, para reforzar mi la
 
 ### Elementos intermedios
 - Autolayouts
-  - Crea frames que se adaptan al contenido, sin hacerlo de forma manual.
-  - 
+  - Crea frames que se adaptan al contenido, sin hacerlo de forma manual. 
 - Atomic design
   - Metodo de diseño que descompone los componentes de la interfaz en elementos pequeños llamados atomos.
   - Permite crear una interfaz modular y escalable.
