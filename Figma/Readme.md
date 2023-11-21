@@ -6,9 +6,9 @@ Este taller tiene como objetivo realizar practicas en Figma, para reforzar mi la
 ## UX/UI
 ## Herramientas basicas de Figma
 ### Secciones y herramientas de Figma
-![Header de figma](./Assets/img/header.png)
+[Header de figma](./Assets/img/header.png)
 ### Elementos basicos
-![Grilla](./Assets/img/grilla.png)
+[Grilla](./Assets/img/grilla.png)
 ### Plugins
 - Que es?
   - Son extensiones o complementos que añaden funcionalidad adicional. 
@@ -16,7 +16,8 @@ Este taller tiene como objetivo realizar practicas en Figma, para reforzar mi la
 
 ### Elementos intermedios
 - Autolayouts
-  - Crea frames que se adaptan al contenido, sin hacerlo de forma manual. 
+  - Crea frames que se adaptan al contenido, sin hacerlo de forma manual.
+  - 
 - Atomic design
   - Metodo de diseño que descompone los componentes de la interfaz en elementos pequeños llamados atomos.
   - Permite crear una interfaz modular y escalable.
@@ -48,7 +49,7 @@ Este taller tiene como objetivo realizar practicas en Figma, para reforzar mi la
 - Interaccion entre elementos esta formada por:
   - Un disparador (trigger), una acción y un destino.
 - Un trigger  tiene las siguientes opciones:
-  - **On click/On Tap:** Activa la acción cuando elusuario  hace clic en un punto del frame oelemento en la pantalla.
+  - **On click/On Tap:** Activa la acción cuando elusuario  hace clic en gitun punto del frame oelemento en la pantalla.
   - **On drag:** Activa una acción cuando arrastra unpunto del frame o elemento en la pantalla.
   - **While Hovering:** Activa la acción cuando elmouse se desplaza sobre el punto de acceso.
   - **While pressing:** Activa la acción cuando haceclic y mantiene  presionado el mouse.
