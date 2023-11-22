@@ -2,3 +2,8 @@ body{
     background-image: url('../img/background.jpg');
     background-size: cover;
 }
+.btn-group{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgba(21, 214, 214, 0.445);
+}
