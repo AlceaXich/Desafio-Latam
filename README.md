@@ -13,4 +13,9 @@ Me introduje en dos cursos:
 - Ambos cursos me parecieron muy interesantes e interactivas, se mostraron los conceptos en forma visual, pdf, ppt o imagenes.
 ## Resultados
 Culmine ambos cursos de manera exitosa.
+Para descargar el proyecto:
+1. Clonar el proyecto.
+2. Abrir la carpeta DESAFIO-LATAM.
+3. Abrir en cualquier navegador el archivo **index.html**.
+4. Listo.
 
